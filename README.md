@@ -1,9 +1,10 @@
-# barcamp-server-2
+# barcamp-server-1
 
 
 ## DEFAULT ENVs
 ```
-PORT=8080
+PORT=8081
+TOKEN=
 ```
 
 ## RUN
@@ -11,3 +12,5 @@ PORT=8080
 npm start
 ```
 
+## Server 2
+https://github.com/nairihar/barcamp-server-2
