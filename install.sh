@@ -6,4 +6,4 @@ then
     exit 1
 fi
 
-mkdir node_modules
+npm i request
