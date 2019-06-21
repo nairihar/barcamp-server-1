@@ -1,13 +1,14 @@
 {
   "name": "barcmap-server-1",
   "version": "1.0.0",
-  "description": "",
+  "description": "Server 1",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "install": "./install.sh"
   },
   "keywords": [],
+  "repository": "https://github.com/nairihar/barcamp-server-1",
   "author": "",
   "license": "ISC",
   "dependencies": {
